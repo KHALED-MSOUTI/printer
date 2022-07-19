@@ -1,0 +1,4 @@
+rootProject.name = "printer"
+include ':app'
+include ':PrinterTooth'
+include ':PrintTooth'
