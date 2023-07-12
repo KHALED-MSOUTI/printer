@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity  {
         printTest = findViewById(R.id.PrintTest);
 
         pairUnpair.setOnClickListener(view -> {
-
+            String[] stringArray= new String[]{"","",""};
         });
 
         printImage.setOnClickListener(view -> {
